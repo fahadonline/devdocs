@@ -461,10 +461,11 @@ Exceptions are pseudo elements and states.
         }
         .nav-list {
             ...
-        }
-        .nav-list-item {
+                    .nav-list-item {
             ...
          }
+        }
+
     }
 
 **Incorrect**:
